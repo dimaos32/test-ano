@@ -1,0 +1,6 @@
+.container {
+  max-width: 1920px;
+  padding-inline: var(--container-padding-inline);
+  margin-inline: auto;
+  width: 100%;
+}

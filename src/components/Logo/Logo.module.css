@@ -1,0 +1,10 @@
+.logo {
+  padding: 8px 16px;
+
+  font-weight: 700;
+  text-transform: uppercase;
+
+  background-color: var(--color-accent);
+  border: 1px solid var(--color-border);
+  border-radius: 2px;
+}
