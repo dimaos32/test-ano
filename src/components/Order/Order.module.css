@@ -49,3 +49,13 @@
 .desc {
   margin: 0;
 }
+
+@media (max-width: 767px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .row {
+    display: block;
+  }
+}
